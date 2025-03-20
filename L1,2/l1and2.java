@@ -4,9 +4,10 @@ public class l1and2 {
 
         // this is my first java program
         /*
-         * this is
+         * This is
          * a milti
-         * line comment
+         * line 
+         * comment
          */
 
         System.out.println("I like java lang");
