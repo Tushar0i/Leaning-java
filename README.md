@@ -11,7 +11,7 @@ Since my **JEE preparation** is also ongoing, I will be learning **slowly and st
   - Practiced **arithmetic operations** ➕➖✖️➗  
 
 ## 📂 Repository Structure  
-- `day1/` → Basic Java programs from Day 1  
+- `day1/` → Basic Java programs,variables from Day 1  
 - `day2/` → User input, Mad Libs game, and arithmetic operations  
 
 ## 🔥 Goals  
