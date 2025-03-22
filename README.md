@@ -9,10 +9,17 @@ Since my **JEE preparation** is also ongoing, I will be learning **slowly and st
   - Learned **user input** in Java  
   - Created a **Mad Libs game** 🎭  
   - Practiced **arithmetic operations** ➕➖✖️➗  
+- **Day 3 - 22/03/2025**:  
+  - Created a **Shopping Cart Program** 🛒  
+  - Practiced **if statements**  
+  - Worked with **random numbers & Math functions** 🎲  
+  - Used `printf()` for formatted output  
+  - Built a **Compound Interest Calculator** 💰  
 
 ## 📂 Repository Structure  
-- `day1/` → Basic Java programs,variables from Day 1  
+- `day1/` → Basic Java programs from Day 1  
 - `day2/` → User input, Mad Libs game, and arithmetic operations  
+- `day3/` → Shopping cart, if statements, random numbers, Math functions, `printf()`, compound interest calculator  
 
 ## 🔥 Goals  
 - Get comfortable with Java syntax and concepts  
@@ -21,6 +28,7 @@ Since my **JEE preparation** is also ongoing, I will be learning **slowly and st
 
 Follow my journey here and feel free to suggest improvements! 🚀  
 
----
+---  
 
-✍️ *Stay tuned for updates!*  
+✍️ *Stay tuned for updates!*
+
