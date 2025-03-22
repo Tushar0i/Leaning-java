@@ -5,10 +5,14 @@ Since my **JEE preparation** is also ongoing, I will be learning **slowly and st
 
 ## 📅 Progress  
 - **Day 1 - 20/03/2025**: Started learning Java!  
+- **Day 2 - 21/03/2025**:  
+  - Learned **user input** in Java  
+  - Created a **Mad Libs game** 🎭  
+  - Practiced **arithmetic operations** ➕➖✖️➗  
 
 ## 📂 Repository Structure  
-- `day1/` → Contains basic Java programs from Day 1  
-- `day2/` → Will include new concepts as I progress  
+- `day1/` → Basic Java programs from Day 1  
+- `day2/` → User input, Mad Libs game, and arithmetic operations  
 
 ## 🔥 Goals  
 - Get comfortable with Java syntax and concepts  
