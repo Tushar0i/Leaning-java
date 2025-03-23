@@ -15,11 +15,21 @@ Since my **JEE preparation** is also ongoing, I will be learning **slowly and st
   - Worked with **random numbers & Math functions** 🎲  
   - Used `printf()` for formatted output  
   - Built a **Compound Interest Calculator** 💰  
+- **Day 4 - 23/03/2025**:  
+  - Practiced **nested if statements**  
+  - Explored **String methods & substring**  
+  - Learned **ternary operator**  
+  - Used **enhanced switch statements**  
+  - Built small projects:  
+    - **Weight Conversion Tool** ⚖️  
+    - **Temperature Conversion Tool** 🌡️  
+    - **Simple Calculator** 🧮  
 
 ## 📂 Repository Structure  
 - `day1/` → Basic Java programs from Day 1  
 - `day2/` → User input, Mad Libs game, and arithmetic operations  
 - `day3/` → Shopping cart, if statements, random numbers, Math functions, `printf()`, compound interest calculator  
+- `day4/` → Nested if statements, string methods, substring, ternary operator, enhanced switches, weight & temperature conversion, simple calculator  
 
 ## 🔥 Goals  
 - Get comfortable with Java syntax and concepts  
