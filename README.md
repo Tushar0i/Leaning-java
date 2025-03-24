@@ -24,12 +24,17 @@ Since my **JEE preparation** is also ongoing, I will be learning **slowly and st
     - **Weight Conversion Tool** ⚖️  
     - **Temperature Conversion Tool** 🌡️  
     - **Simple Calculator** 🧮  
+- **Day 5 - 24/03/2025**:  
+  - Learned **logical operators**  
+  - Practiced **while & for loops** 🔄  
+  - Built a **Number Guessing Game** 🎯  
 
 ## 📂 Repository Structure  
 - `day1/` → Basic Java programs from Day 1  
 - `day2/` → User input, Mad Libs game, and arithmetic operations  
 - `day3/` → Shopping cart, if statements, random numbers, Math functions, `printf()`, compound interest calculator  
 - `day4/` → Nested if statements, string methods, substring, ternary operator, enhanced switches, weight & temperature conversion, simple calculator  
+- `day5/` → Logical operators, loops, number guessing game  
 
 ## 🔥 Goals  
 - Get comfortable with Java syntax and concepts  
