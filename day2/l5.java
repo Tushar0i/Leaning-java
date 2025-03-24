@@ -30,7 +30,6 @@ public class l5 {
         // Incriment and Decriment Operators
 
         int a = 1;
-        int b;
 
         a++; // this is same as x+=1 or x=x+1 for incriment
         a--; // decriment
@@ -38,7 +37,7 @@ public class l5 {
         System.out.println(a);
 
         // Order of Operation [B-E-M-D-A-S] bracket exponent multi divi add and sun
-        double result = 3 + 5 * ( 9 - 4 ) / 9git ;
+        double result = 3 + 5 * ( 9 - 4 ) / 9 ;
         System.out.println(result);
 
     }
