@@ -33,5 +33,7 @@ public class l19 {
 
         }
 
+        scanner.close();
+
     }
 }
