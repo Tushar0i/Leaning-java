@@ -11,7 +11,7 @@ public class l23 {
 
         String fruit =  "apple";
 
-        System.out.println(fruit);
+        System.out.println(fruit);//It will give a memory address to us
 
         // array is a reference data type
 
