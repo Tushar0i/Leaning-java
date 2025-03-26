@@ -44,6 +44,13 @@ I am learning **slowly and steadily** while improving my coding skills.
   - Understood **variable scope**  
   - Built a **Banking Program 💰**  
 
+- **Day 7 - 26/03/2025**  
+  - Built a **Rolling Dice Game 🎲**  
+  - Learned **Arrays & user input in arrays**  
+  - Practiced **searching elements in arrays** 🔍  
+  - Worked with **variable arguments in methods**  
+  - Explored **2D arrays**  
+
 ---
 
 ## 📂 Repository Structure  
@@ -54,6 +61,7 @@ I am learning **slowly and steadily** while improving my coding skills.
 - `day4/` → Nested if statements, string methods, substring, ternary operator, enhanced switches, weight & temperature conversion, simple calculator  
 - `day5/` → Logical operators, loops, number guessing game  
 - `day6/` → Break & continue, nested loops, methods, overloaded methods, variable scope, banking program  
+- `day7/` → Rolling dice game, arrays, searching in arrays, variable arguments, 2D arrays  
 
 ---
 
