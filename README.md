@@ -51,6 +51,11 @@ I am learning **slowly and steadily** while improving my coding skills.
   - Worked with **variable arguments in methods**  
   - Explored **2D arrays**  
 
+- **Day 8 - 27/03/2025**  
+  - Took a **small break** today but made **two fun projects**:  
+    - **Quiz Game 📝** – Testing knowledge with Java!  
+    - **Rock Paper Scissors Game ✊📄✂️** – Classic game with user input & logic  
+
 ---
 
 ## 📂 Repository Structure  
@@ -62,6 +67,7 @@ I am learning **slowly and steadily** while improving my coding skills.
 - `day5/` → Logical operators, loops, number guessing game  
 - `day6/` → Break & continue, nested loops, methods, overloaded methods, variable scope, banking program  
 - `day7/` → Rolling dice game, arrays, searching in arrays, variable arguments, 2D arrays  
+- `day8/` → Quiz game, rock paper scissors game  
 
 ---
 
