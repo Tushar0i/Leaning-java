@@ -1,7 +1,7 @@
 public class l29 {
     
     public static void main(String[] args) {
-        System.out.println("In this we are going to learn about overloaded constructors");
+        System.out.println("In this we are going to learn about  constructors");
 
 
         //Constructore == a special method to intialize objects ,we can pass arguments to a constructor and set up its initial value
