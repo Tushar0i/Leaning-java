@@ -1,7 +1,7 @@
 # 🚀 Java Learning Journey  
 
 I am learning Java to get used to Git/GitHub. This repository will help me track my progress.  
-I am taking it **slowly and steadily** to ensure solid understanding.  
+Learning slowly and steadily 🚶‍♂️💻  
 
 ## 📅 Progress  
 - **Day 1 - 20/03/2025**: Started learning Java!  
@@ -50,7 +50,14 @@ I am taking it **slowly and steadily** to ensure solid understanding.
   - Explored **Overloaded Constructors**  
   - Worked with **Array of Objects**  
 
-🚨 **Taking a 5-day break for my exam! Will resume soon.** 📚💪  
+📌 **Took a 5-day break** for exam preparation 🧠📖  
+
+- **Day 10 - 04/04/2025**:  
+  - Revised previous concepts for a stronger foundation  
+  - Learned about the **`static` keyword**  
+  - Studied **Inheritance**  
+  - Understood the **`super` keyword**  
+  - Took an extra day but continuing strong! 💪  
 
 ## 📂 Repository Structure  
 - `day1/` → Basic Java programs from Day 1  
@@ -58,10 +65,11 @@ I am taking it **slowly and steadily** to ensure solid understanding.
 - `day3/` → Shopping cart, if statements, random numbers, Math functions, `printf()`, compound interest calculator  
 - `day4/` → Nested if statements, string methods, substring, ternary operator, enhanced switches, weight & temperature conversion, simple calculator  
 - `day5/` → Logical operators, loops, number guessing game  
-- `day6/` → Break & continue, nested loops, methods, overloaded methods, variable scope, banking program  
-- `day7/` → Rolling dice, arrays, searching in arrays, variable arguments, 2D arrays  
-- `day8/` → Quiz game, Rock Paper Scissors  
-- `day9/` → Slot machine, OOP, classes, constructors, overloaded constructors, array of objects  
+- `day6/` → Break/continue, nested loops, methods, scope, banking program  
+- `day7/` → Dice roll, arrays, varargs, 2D arrays  
+- `day8/` → Quiz & Rock Paper Scissors game  
+- `day9/` → Slot machine, classes, constructors, OOP intro  
+- `day10/` → Static, inheritance, super keyword, revision  
 
 ## 🔥 Goals  
 - Get comfortable with Java syntax and concepts  
@@ -72,4 +80,4 @@ Follow my journey here and feel free to suggest improvements! 🚀
 
 ---  
 
-✍️ *Stay tuned for updates after my exam!*
+✍️ *Stay tuned for updates!*
