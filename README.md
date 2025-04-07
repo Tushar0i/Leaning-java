@@ -60,11 +60,17 @@ Learning slowly and steadily 🚶‍♂️💻
   - Understood the **`super`** keyword
   - Took an extra day but continuing strong! 💪
 - **Day 11 - 05/04/2025**:
-  - Learned about **method overriding**
-  - Explored the **`toString()` method**
-  - Studied **abstraction**
-  - Understood how to use **interfaces**
-  - Practiced **polymorphism** and **runtime polymorphism**
+  - Learned about **method overriding** 🔁
+  - Explored the **`toString()`** method 🧾
+  - Studied **Abstraction & Interfaces** 📄
+  - Practiced **Polymorphism & Runtime Polymorphism** 🌀
+- **Day 12 - 06/04/2025**:
+  - Learned **Getter & Setter methods** 🛠️
+  - Explored **Aggregation** 🔗
+  - Understood **Composition** 🧱
+  - Studied **Wrapper Classes** 🧊
+  - Worked with **ArrayList** 📚
+  - Practiced **Exception Handling** 🚨
 
 ## 📂 Repository Structure
 
@@ -79,6 +85,7 @@ Learning slowly and steadily 🚶‍♂️💻
 - `day9/` → Slot machine, classes, constructors, OOP intro
 - `day10/` → Static, inheritance, super keyword, revision
 - `day11/` → Method overriding, toString, abstraction, interfaces, polymorphism
+- `day12/` → Getter/Setter, aggregation, composition, wrapper classes, ArrayList, exception handling
 
 ## 🔥 Goals
 
@@ -91,3 +98,4 @@ Follow my journey here and feel free to suggest improvements! 🚀
 ---
 
 ✍️ *Stay tuned for updates!*
+
