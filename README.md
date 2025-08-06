@@ -1,7 +1,6 @@
 # 🚀 Java Learning Journey
 
-I am learning Java to get used to Git/GitHub. This repository will help me track my progress.\
-Learning slowly and steadily 🚶‍♂️💻
+I am learning Java to get used to Git/GitHub. This repository will help me track my progress.
 
 ## 📅 Progress
 
